@@ -1,0 +1,27 @@
+body
+{
+  margin:30px;
+  font-family: NanumSquareRoundL;
+}
+@font-face {
+  font-family: NanumSquareRoundL;
+  src:url("D:/web/NanumSquareRoundL.ttf") format('truetype');
+}
+#header
+{
+  font-family: NanumSquareRoundL;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  width: auto;
+  padding-top:10px;
+  padding-bottom: 10px;
+  background-color: green;
+  outline-style: solid;
+  outline-color:yellow;
+  outline-width: 5px;
+}
+#gridforarticles
+{
+  
+}
