@@ -1,6 +1,5 @@
 body
 {
-  margin:30px;
   font-family: NanumSquareRoundL;
 }
 @font-face {
@@ -21,7 +20,20 @@ body
   outline-color:yellow;
   outline-width: 5px;
 }
-#gridforarticles
+#mainboard
 {
-  
+  margin-top: 50px;
+}
+#artbtn
+{
+  position:fixed;
+  right: 500px;
+  margin-bottom: 100px;
+}
+#idinput
+{
+  margin-top:"50px";
+  width: 500px;
+  postion:fixed;
+  left:650px;
 }
